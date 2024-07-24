@@ -34,7 +34,7 @@ MODERATOR_ROLE_IDS = []
 # Voice channel monitoring settings
 user_vc_entry_time = {}  # Tracks when users join voice channels
 user_vc_logs = {}        # Logs related to voice channel activities
-CHECK_INTERVAL_MINUTES = 0.2  # Interval for checking voice channel activities
+CHECK_INTERVAL_MINUTES =   # Interval for checking voice channel activities
 ENCOURAGEMENT_ROLE_ID =   # Role to ping for encouragement messages
 
 # In-memory storage for bot data
